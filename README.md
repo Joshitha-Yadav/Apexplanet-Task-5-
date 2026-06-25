@@ -52,6 +52,15 @@ Hi! I'm **Joshitha Yadav Pottelu**, a B.Tech CSE student passionate about Data A
 
 ---
 
+## 🔗 Previous Tasks
+
+- Task 1: https://github.com/YourUsername/Task-1
+- Task 2: https://github.com/YourUsername/Task-2
+- Task 3: https://github.com/YourUsername/Task-3
+- Task 4: https://github.com/YourUsername/Task-4
+
+---
+
 ## ✅ Task 5 – Capstone Integration & Portfolio Finalization
 - Consolidated all internship work
 - Organized project repositories
