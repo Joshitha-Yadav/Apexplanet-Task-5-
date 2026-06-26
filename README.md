@@ -54,10 +54,11 @@ Hi! I'm **Joshitha Yadav Pottelu**, a B.Tech CSE student passionate about Data A
 
 ## 🔗 Previous Tasks
 
-- Task 1: https://github.com/YourUsername/Task-1
-- Task 2: https://github.com/YourUsername/Task-2
-- Task 3: https://github.com/YourUsername/Task-3
-- Task 4: https://github.com/YourUsername/Task-4
+- Task 1:
+https://github.com/Joshitha-Yadav/ApexPlanet-Task1-Data_Wrangling
+- Task 2: https://github.com/Joshitha-Yadav/ApexPlanet-Task2_eda
+- Task 3: https://github.com/Joshitha-Yadav/ApexPlanet-Task3-Dashboard
+- Task 4: https://github.com/Joshitha-Yadav/Task4_Storytelling
 
 ---
 
